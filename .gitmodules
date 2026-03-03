@@ -1,0 +1,15 @@
+[submodule "financial-machine-learning"]
+	path = financial-machine-learning
+	url = https://github.com/firmai/financial-machine-learning.git
+[submodule "generative_deep_learning"]
+	path = generative_deep_learning
+	url = https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition.git
+[submodule "MachineLearning.jl"]
+	path = MachineLearning.jl
+	url = https://github.com/benhamner/MachineLearning.jl.git
+[submodule "mit-deep-learning"]
+	path = mit-deep-learning
+	url = https://github.com/MITDeepLearning/introtodeeplearning.git
+[submodule "Julia.ml"]
+	path = Julia.ml
+	url = https://github.com/JuliaAI/MLJ.jl.git
